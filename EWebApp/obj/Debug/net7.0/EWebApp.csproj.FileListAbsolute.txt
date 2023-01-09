@@ -1,0 +1,8 @@
+D:\.Net files ravi\dotnet\Day10\EComm_prac\EWebApp\obj\Debug\net7.0\EWebApp.csproj.AssemblyReference.cache
+D:\.Net files ravi\dotnet\Day10\EComm_prac\EWebApp\obj\Debug\net7.0\EWebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net files ravi\dotnet\Day10\EComm_prac\EWebApp\obj\Debug\net7.0\EWebApp.AssemblyInfoInputs.cache
+D:\.Net files ravi\dotnet\Day10\EComm_prac\EWebApp\obj\Debug\net7.0\EWebApp.AssemblyInfo.cs
+D:\.Net files ravi\dotnet\Day10\EComm_prac\EWebApp\obj\Debug\net7.0\EWebApp.csproj.CoreCompileInputs.cache
+D:\.Net files ravi\dotnet\Day10\EComm_prac\EWebApp\obj\Debug\net7.0\EWebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\.Net files ravi\dotnet\Day10\EComm_prac\EWebApp\obj\Debug\net7.0\EWebApp.RazorAssemblyInfo.cache
+D:\.Net files ravi\dotnet\Day10\EComm_prac\EWebApp\obj\Debug\net7.0\EWebApp.RazorAssemblyInfo.cs

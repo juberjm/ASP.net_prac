@@ -1,0 +1,12 @@
+D:\.Net files ravi\dotnet\Day10\EComm_prac\BuissObjLayer\obj\Debug\net7.0\BuissObjLayer.csproj.AssemblyReference.cache
+D:\.Net files ravi\dotnet\Day10\EComm_prac\BuissObjLayer\obj\Debug\net7.0\BuissObjLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net files ravi\dotnet\Day10\EComm_prac\BuissObjLayer\obj\Debug\net7.0\BuissObjLayer.AssemblyInfoInputs.cache
+D:\.Net files ravi\dotnet\Day10\EComm_prac\BuissObjLayer\obj\Debug\net7.0\BuissObjLayer.AssemblyInfo.cs
+D:\.Net files ravi\dotnet\Day10\EComm_prac\BuissObjLayer\obj\Debug\net7.0\BuissObjLayer.csproj.CoreCompileInputs.cache
+D:\.Net files ravi\dotnet\Day10\EComm_prac\BuissObjLayer\bin\Debug\net7.0\BuissObjLayer.deps.json
+D:\.Net files ravi\dotnet\Day10\EComm_prac\BuissObjLayer\bin\Debug\net7.0\BuissObjLayer.dll
+D:\.Net files ravi\dotnet\Day10\EComm_prac\BuissObjLayer\bin\Debug\net7.0\BuissObjLayer.pdb
+D:\.Net files ravi\dotnet\Day10\EComm_prac\BuissObjLayer\obj\Debug\net7.0\BuissObjLayer.dll
+D:\.Net files ravi\dotnet\Day10\EComm_prac\BuissObjLayer\obj\Debug\net7.0\refint\BuissObjLayer.dll
+D:\.Net files ravi\dotnet\Day10\EComm_prac\BuissObjLayer\obj\Debug\net7.0\BuissObjLayer.pdb
+D:\.Net files ravi\dotnet\Day10\EComm_prac\BuissObjLayer\obj\Debug\net7.0\ref\BuissObjLayer.dll

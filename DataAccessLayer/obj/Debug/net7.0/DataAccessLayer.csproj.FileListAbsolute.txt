@@ -1,0 +1,15 @@
+D:\.Net files ravi\dotnet\Day10\EComm_prac\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\.Net files ravi\dotnet\Day10\EComm_prac\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net files ravi\dotnet\Day10\EComm_prac\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\.Net files ravi\dotnet\Day10\EComm_prac\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+D:\.Net files ravi\dotnet\Day10\EComm_prac\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\.Net files ravi\dotnet\Day10\EComm_prac\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+D:\.Net files ravi\dotnet\Day10\EComm_prac\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+D:\.Net files ravi\dotnet\Day10\EComm_prac\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+D:\.Net files ravi\dotnet\Day10\EComm_prac\DataAccessLayer\bin\Debug\net7.0\BuissObjLayer.dll
+D:\.Net files ravi\dotnet\Day10\EComm_prac\DataAccessLayer\bin\Debug\net7.0\BuissObjLayer.pdb
+D:\.Net files ravi\dotnet\Day10\EComm_prac\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CopyComplete
+D:\.Net files ravi\dotnet\Day10\EComm_prac\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+D:\.Net files ravi\dotnet\Day10\EComm_prac\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+D:\.Net files ravi\dotnet\Day10\EComm_prac\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+D:\.Net files ravi\dotnet\Day10\EComm_prac\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll

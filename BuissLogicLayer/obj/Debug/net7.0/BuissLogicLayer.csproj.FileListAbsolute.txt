@@ -1,0 +1,5 @@
+D:\.Net files ravi\dotnet\Day10\EComm_prac\BuissLogicLayer\obj\Debug\net7.0\BuissLogicLayer.csproj.AssemblyReference.cache
+D:\.Net files ravi\dotnet\Day10\EComm_prac\BuissLogicLayer\obj\Debug\net7.0\BuissLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net files ravi\dotnet\Day10\EComm_prac\BuissLogicLayer\obj\Debug\net7.0\BuissLogicLayer.AssemblyInfoInputs.cache
+D:\.Net files ravi\dotnet\Day10\EComm_prac\BuissLogicLayer\obj\Debug\net7.0\BuissLogicLayer.AssemblyInfo.cs
+D:\.Net files ravi\dotnet\Day10\EComm_prac\BuissLogicLayer\obj\Debug\net7.0\BuissLogicLayer.csproj.CoreCompileInputs.cache
