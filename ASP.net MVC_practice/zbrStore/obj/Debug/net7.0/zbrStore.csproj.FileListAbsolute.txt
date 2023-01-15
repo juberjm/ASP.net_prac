@@ -1,0 +1,62 @@
+D:\.Net files ravi\dotnet\day8\Ecom\zbrStore\bin\Debug\net7.0\appsettings.Development.json
+D:\.Net files ravi\dotnet\day8\Ecom\zbrStore\bin\Debug\net7.0\appsettings.json
+D:\.Net files ravi\dotnet\day8\Ecom\zbrStore\bin\Debug\net7.0\zbrStore.staticwebassets.runtime.json
+D:\.Net files ravi\dotnet\day8\Ecom\zbrStore\bin\Debug\net7.0\zbrStore.exe
+D:\.Net files ravi\dotnet\day8\Ecom\zbrStore\bin\Debug\net7.0\zbrStore.deps.json
+D:\.Net files ravi\dotnet\day8\Ecom\zbrStore\bin\Debug\net7.0\zbrStore.runtimeconfig.json
+D:\.Net files ravi\dotnet\day8\Ecom\zbrStore\bin\Debug\net7.0\zbrStore.dll
+D:\.Net files ravi\dotnet\day8\Ecom\zbrStore\bin\Debug\net7.0\zbrStore.pdb
+D:\.Net files ravi\dotnet\day8\Ecom\zbrStore\obj\Debug\net7.0\zbrStore.csproj.AssemblyReference.cache
+D:\.Net files ravi\dotnet\day8\Ecom\zbrStore\obj\Debug\net7.0\zbrStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net files ravi\dotnet\day8\Ecom\zbrStore\obj\Debug\net7.0\zbrStore.AssemblyInfoInputs.cache
+D:\.Net files ravi\dotnet\day8\Ecom\zbrStore\obj\Debug\net7.0\zbrStore.AssemblyInfo.cs
+D:\.Net files ravi\dotnet\day8\Ecom\zbrStore\obj\Debug\net7.0\zbrStore.csproj.CoreCompileInputs.cache
+D:\.Net files ravi\dotnet\day8\Ecom\zbrStore\obj\Debug\net7.0\zbrStore.MvcApplicationPartsAssemblyInfo.cache
+D:\.Net files ravi\dotnet\day8\Ecom\zbrStore\obj\Debug\net7.0\zbrStore.RazorAssemblyInfo.cache
+D:\.Net files ravi\dotnet\day8\Ecom\zbrStore\obj\Debug\net7.0\zbrStore.RazorAssemblyInfo.cs
+D:\.Net files ravi\dotnet\day8\Ecom\zbrStore\obj\Debug\net7.0\staticwebassets\msbuild.zbrStore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.Net files ravi\dotnet\day8\Ecom\zbrStore\obj\Debug\net7.0\staticwebassets\msbuild.build.zbrStore.props
+D:\.Net files ravi\dotnet\day8\Ecom\zbrStore\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.zbrStore.props
+D:\.Net files ravi\dotnet\day8\Ecom\zbrStore\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.zbrStore.props
+D:\.Net files ravi\dotnet\day8\Ecom\zbrStore\obj\Debug\net7.0\staticwebassets.pack.json
+D:\.Net files ravi\dotnet\day8\Ecom\zbrStore\obj\Debug\net7.0\staticwebassets.build.json
+D:\.Net files ravi\dotnet\day8\Ecom\zbrStore\obj\Debug\net7.0\staticwebassets.development.json
+D:\.Net files ravi\dotnet\day8\Ecom\zbrStore\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\.Net files ravi\dotnet\day8\Ecom\zbrStore\obj\Debug\net7.0\scopedcss\bundle\zbrStore.styles.css
+D:\.Net files ravi\dotnet\day8\Ecom\zbrStore\obj\Debug\net7.0\scopedcss\projectbundle\zbrStore.bundle.scp.css
+D:\.Net files ravi\dotnet\day8\Ecom\zbrStore\obj\Debug\net7.0\zbrStore.dll
+D:\.Net files ravi\dotnet\day8\Ecom\zbrStore\obj\Debug\net7.0\refint\zbrStore.dll
+D:\.Net files ravi\dotnet\day8\Ecom\zbrStore\obj\Debug\net7.0\zbrStore.pdb
+D:\.Net files ravi\dotnet\day8\Ecom\zbrStore\obj\Debug\net7.0\zbrStore.genruntimeconfig.cache
+D:\.Net files ravi\dotnet\day8\Ecom\zbrStore\obj\Debug\net7.0\ref\zbrStore.dll
+D:\Ecom\zbrStore\bin\Debug\net7.0\appsettings.Development.json
+D:\Ecom\zbrStore\bin\Debug\net7.0\appsettings.json
+D:\Ecom\zbrStore\bin\Debug\net7.0\zbrStore.staticwebassets.runtime.json
+D:\Ecom\zbrStore\bin\Debug\net7.0\zbrStore.exe
+D:\Ecom\zbrStore\bin\Debug\net7.0\zbrStore.deps.json
+D:\Ecom\zbrStore\bin\Debug\net7.0\zbrStore.runtimeconfig.json
+D:\Ecom\zbrStore\bin\Debug\net7.0\zbrStore.dll
+D:\Ecom\zbrStore\bin\Debug\net7.0\zbrStore.pdb
+D:\Ecom\zbrStore\obj\Debug\net7.0\zbrStore.csproj.AssemblyReference.cache
+D:\Ecom\zbrStore\obj\Debug\net7.0\zbrStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ecom\zbrStore\obj\Debug\net7.0\zbrStore.AssemblyInfoInputs.cache
+D:\Ecom\zbrStore\obj\Debug\net7.0\zbrStore.AssemblyInfo.cs
+D:\Ecom\zbrStore\obj\Debug\net7.0\zbrStore.csproj.CoreCompileInputs.cache
+D:\Ecom\zbrStore\obj\Debug\net7.0\zbrStore.MvcApplicationPartsAssemblyInfo.cache
+D:\Ecom\zbrStore\obj\Debug\net7.0\zbrStore.RazorAssemblyInfo.cache
+D:\Ecom\zbrStore\obj\Debug\net7.0\zbrStore.RazorAssemblyInfo.cs
+D:\Ecom\zbrStore\obj\Debug\net7.0\staticwebassets\msbuild.zbrStore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Ecom\zbrStore\obj\Debug\net7.0\staticwebassets\msbuild.build.zbrStore.props
+D:\Ecom\zbrStore\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.zbrStore.props
+D:\Ecom\zbrStore\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.zbrStore.props
+D:\Ecom\zbrStore\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Ecom\zbrStore\obj\Debug\net7.0\staticwebassets.build.json
+D:\Ecom\zbrStore\obj\Debug\net7.0\staticwebassets.development.json
+D:\Ecom\zbrStore\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Ecom\zbrStore\obj\Debug\net7.0\scopedcss\bundle\zbrStore.styles.css
+D:\Ecom\zbrStore\obj\Debug\net7.0\scopedcss\projectbundle\zbrStore.bundle.scp.css
+D:\Ecom\zbrStore\obj\Debug\net7.0\zbrStore.dll
+D:\Ecom\zbrStore\obj\Debug\net7.0\refint\zbrStore.dll
+D:\Ecom\zbrStore\obj\Debug\net7.0\zbrStore.pdb
+D:\Ecom\zbrStore\obj\Debug\net7.0\zbrStore.genruntimeconfig.cache
+D:\Ecom\zbrStore\obj\Debug\net7.0\ref\zbrStore.dll

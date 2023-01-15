@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+        <h1 class="display-4">welcome to zbr</h1>
+        <ol>
+            <li>bikes</li>
+            <li>supercars</li>
+            <li>cars</li>
+    
+
+    @{
+        List<string>bikes=new List<string>();
+        bikes.Add("yamaha");
+        bikes.Add("suzuki");
+        bikes.Add("honda");
+
+        <ol>
+        @foreach(string bike in bikes){
+            <li>@bike</li>
+        }
+        </ol>
+    }
+    
+    
+</div>
